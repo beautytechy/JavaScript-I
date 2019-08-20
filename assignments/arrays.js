@@ -83,7 +83,7 @@ console.log(inventory[32]);
 
 
 let lastCar = 0;
-console.log(inventory[lastCar]);
+console.log(inventory[inventory.length-1]);
 
 // ==== Challenge 3 ====
 // The marketing team wants the car models listed alphabetically on the website. Sort all the car model names into alphabetical order and log the results in the console
